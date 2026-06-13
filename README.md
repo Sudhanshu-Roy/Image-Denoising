@@ -107,15 +107,7 @@ The trained Autoencoder successfully removes a significant amount of noise while
 
 ### Example Result
 
-| Noisy Image    | Denoised Image |
-| -------------- | -------------- |
-| Add Screenshot | Add Screenshot |
-
-Store screenshots inside:
-
-```text
-assets/
-```
+<img width="794" height="394" alt="image" src="https://github.com/user-attachments/assets/33e49de0-0986-4104-befd-cfd280c529b6" />
 
 and reference them here.
 
@@ -140,25 +132,18 @@ Features:
 Emergency-Vehicle-Image-Denoising/
 
 ├── app.py
-
 ├── assets/
-
 ├── data/
 │   └── dataset.txt
-
 ├── models/
 │   └── weights_best.weights.h5
-
 ├── notebooks/
 │   └── Image_Denoising_Autoencoder.ipynb
-
 ├── src/
 │   ├── model.py
 │   ├── preprocess.py
 │   └── predict.py
-
 ├── requirements.txt
-
 └── README.md
 ```
 
